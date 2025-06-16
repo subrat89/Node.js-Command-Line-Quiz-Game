@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Which element has the chemical symbol '0'?",
+            "options": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Oganesson"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "Who wrote 'To kill a Mockingbird'?",
+            "options": [
+                "Nepolean Hill",
+                "Harper Lee",
+                "James Clear",
+                "Mitch Albom"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "Which country has won the most FIFA World Cup titles?",
+            "options": [
+                "Brazil",
+                "Spain",
+                "Germany",
+                "Italy"
+            ],
+            "answer": "Brazil"
+        },
+        {
+            "question": " Which country will host the 2023 Cricket World Cup?",
+            "options": [
+                "India",
+                "Sri Lanka",
+                "Australia",
+                "Saudi Arabia"
+            ],
+            "answer": "India"
+        },
+        {
+            "question": "What is the name of the world's largest e-commerce company by revenue?",
+            "options": [
+                "Zepto",
+                "Flipkart",
+                "Blinkit",
+                "Amazon"
+            ],
+            "answer": "Amazon"
+        },
+        {
+            "question": "Name the National Aquatic Animal of India?",
+            "options": [
+                "Jellyfish",
+                "Starfish",
+                "Sharks",
+                "Dolphins"
+            ],
+            "answer": "Dolphins"
+        }
+    ]
+}
